@@ -1,6 +1,6 @@
 # Tele2ASPNET-Test
 
-.Net Core 3.1, vs code, ubuntu, mysql
+.Net Core 3.1, vs code, ubuntu, mysql, xunit
 
 Tests - юнит-тесты.
 
